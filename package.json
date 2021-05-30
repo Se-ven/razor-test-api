@@ -16,7 +16,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon ./src/index.js"
   },
   "repository": {
     "type": "git",
